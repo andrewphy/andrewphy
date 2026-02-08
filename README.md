@@ -17,6 +17,24 @@
 
 > *“Understanding the Universe one equation at a time.”*
 
+<table>
+<tr>
+<td width="60%">
+
+## 🧠 Research Interests
+
+- 🌌 Inflationary Cosmology  
+- 🌑 Dark Matter  
+- 🕳️ General Relativity, Black Holes  
+- 🧪 Experimental data analysis  
+
+</td>
+
+<td width="40%" align="right">
+  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 
 ## 🧠 Research Interests
