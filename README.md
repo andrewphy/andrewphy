@@ -33,8 +33,6 @@
 </div>
 
 
-
-
 ## 📐 Favorite Equation 
 
 <p align="center">
@@ -50,9 +48,6 @@ S = \frac{1}{16\pi G} \int R \sqrt{-g} \, d^4x
 </p>
 
 
-
-
-
 ## 🛠️ Scientific Tools
 
 <p align="center">
@@ -60,15 +55,11 @@ S = \frac{1}{16\pi G} \int R \sqrt{-g} \, d^4x
 </p>
 
 
-
 ## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
-
-
-
 
 
 ---
