@@ -34,11 +34,21 @@
 
 
 
+
 ## 📐 Favorite Equation 
 
 <p align="center">
-  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/becea08974ec073aa8aae9a8dcfb58f4701cb13e" width="420" alt="Einstein-Hilbert action"/>
+  
+
+
+\[
+S = \frac{1}{16\pi G} \int R \sqrt{-g} \, d^4x
+\]
+
+
+
 </p>
+
 
 
 
