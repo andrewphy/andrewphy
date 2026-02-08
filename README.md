@@ -17,8 +17,7 @@
 
 <p align="left"><i>“Understanding the Universe one equation at a time.”</i></p>
 
-
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
 
 <td width="60%" valign="top">
@@ -33,11 +32,12 @@
 </td>
 
 <td width="40%" align="center" valign="middle">
-  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif"/>
+  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
 </td>
 
 </tr>
 </table>
+
 
 
 ## 📐 Favorite Equation 
