@@ -33,14 +33,6 @@
 </div>
 
 
-<td width="40%" align="center" valign="middle">
-  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
-</td>
-
-</tr>
-</table>
-
-
 
 ## 📐 Favorite Equation 
 
