@@ -37,16 +37,9 @@
 ## 📐 Favorite Equation 
 
 <p align="center">
-  
-
-
-\[
-S = \frac{1}{16\pi G} \int R \sqrt{-g} \, d^4x
-\]
-
-
-
+  <img src="https://latex.codecogs.com/svg.latex?\Large%20S%20=%20\frac{1}{16\pi%20G}%20\int%20R%20\sqrt{-g}%20\,d^4x" alt="Einstein-Hilbert action"/>
 </p>
+
 
 
 ## 🛠️ Scientific Tools
