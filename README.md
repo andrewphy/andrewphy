@@ -33,6 +33,7 @@
 </div>
 
 
+
 ## 📐 Favorite Equation 
 
 <p align="center">
