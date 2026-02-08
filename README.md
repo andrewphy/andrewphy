@@ -31,7 +31,8 @@
        width="420"
        alt="Black hole gravitational lensing"/>
 </p>
----
+
+----
 
 
 ## 📐 Favorite Equation 
