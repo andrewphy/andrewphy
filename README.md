@@ -21,14 +21,15 @@
 ## 🧠 Research Interests
 
 - 🌠 Inflationary Cosmology  
-- 🕳️ Dark Matter  
-- 🧲 General Relativity, Black Holes   
-- 🧪 Experimental data analysis  
-<p align="right">
+- 🕳️ Dark Matter
+  <p align="right">
   <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif"
        width="420"
        alt="Black hole"/>
 </p>
+- 🧲 General Relativity, Black Holes   
+- 🧪 Experimental data analysis  
+
 
 
 
