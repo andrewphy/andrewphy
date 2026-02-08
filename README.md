@@ -24,8 +24,7 @@
 
 - 🌠 Inflationary Cosmology  
 - 🕳️ Dark Matter & FIMP scenarios  
-- 🧲 General Relativity (metric vs Palatini)  
-- 📈 Statistical Physics  
+- 🧲 General Relativity   
 - 🧪 Experimental data analysis  
 
 ---
