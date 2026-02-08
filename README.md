@@ -26,9 +26,9 @@
 - 🧲 General Relativity, Black Holes   
 - 🧪 Experimental data analysis  
 <p align="center">
-  <img src="https://cdn.mos.cms.futurecdn.net/c5gNdBLnZBy3zvGiLWGixn.gif"
+  <img src="https://tenor.com/view/sagittarius-black-hole-gif-13848412857652352521"
        width="420"
-       alt="Black hole gravitational lensing"/>
+       alt="Black hole"/>
 </p>
 
 
