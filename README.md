@@ -1,4 +1,4 @@
-<!-- BANNER -->
+mira mi codigo <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Physics%20|%20Cosmology%20|%20General+Relativity&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -15,28 +15,34 @@
 🌌 Interested in **cosmology, inflationary models, dark matter and GR**  
 📊 Using computational tools for **theoretical and experimental analysis**
 
-<p align="left"><i>“Understanding the Universe one equation at a time.”</i></p>
+> *“Understanding the Universe one equation at a time.”*
 
-<div style="display:flex; align-items:center; justify-content:space-between;">
-  <div>
-    <h2>🧠 Research Interests</h2>
-    <ul>
-      <li>🌌 <b>Inflationary Cosmology</b></li>
-      <li>🌑 <b>Dark Matter</b></li>
-      <li>🕳️ <b>General Relativity, Black Holes</b></li>
-      <li>🧪 <b>Experimental data analysis</b></li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
-  </div>
-</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="60%" valign="top">
+
+## 🧠 Research Interests
+
+- 🌌 **Inflationary Cosmology**  
+- 🌑 **Dark Matter**  
+- 🕳️ **General Relativity, Black Holes**  
+- 🧪 **Experimental data analysis**
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif"/>
+</td>
+
+</tr>
+</table>
 
 
+## 📐 Favorite Equation 
 
-## 📐 Favorite Equation
 <p align="center">
-  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b6d6c9f9e2e2f1a7f8c2f7a9e6f9f2b6b7c9d8f" width="420" alt="Einstein-Hilbert action"/>
+  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/becea08974ec073aa8aae9a8dcfb58f4701cb13e" width="420" alt="Einstein-Hilbert action"/>
 </p>
 
 
@@ -49,6 +55,7 @@
 </p>
 
 
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -56,9 +63,11 @@
 </p>
 
 
+
+
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-
