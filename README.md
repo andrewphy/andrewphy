@@ -26,7 +26,11 @@
 - 🕳️ Dark Matter  
 - 🧲 General Relativity, Black Holes   
 - 🧪 Experimental data analysis  
-
+<p align="center">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.livescience.com%2Fblack-hole-accretion-disk-side-view-gif.html&ved=0CBUQjRxqFwoTCPCizoP7ypIDFQAAAAAdAAAAABAI&opi=89978449"
+       width="420"
+       alt="Black hole gravitational lensing"/>
+</p>
 ---
 
 
