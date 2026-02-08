@@ -17,19 +17,21 @@
 
 <p align="left"><i>“Understanding the Universe one equation at a time.”</i></p>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
-<tr>
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <div>
+    <h2>🧠 Research Interests</h2>
+    <ul>
+      <li>🌌 <b>Inflationary Cosmology</b></li>
+      <li>🌑 <b>Dark Matter</b></li>
+      <li>🕳️ <b>General Relativity, Black Holes</b></li>
+      <li>🧪 <b>Experimental data analysis</b></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
+  </div>
+</div>
 
-<td width="60%" valign="top">
-
-## 🧠 Research Interests
-
-- 🌌 **Inflationary Cosmology**  
-- 🌑 **Dark Matter**  
-- 🕳️ **General Relativity, Black Holes**  
-- 🧪 **Experimental data analysis**
-
-</td>
 
 <td width="40%" align="center" valign="middle">
   <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
