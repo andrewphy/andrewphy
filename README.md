@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Physics+Student;Cosmology+%26+Inflation;Dark+Matter+Research;General+Relativity" />
 </p>
 
----
 
 ## 👋 About Me
 
@@ -18,7 +17,7 @@
 
 > *“Understanding the Universe one equation at a time.”*
 
----
+
 
 ## 🧠 Research Interests
 
@@ -41,7 +40,7 @@
 </p>
 
 
----
+
 
 ## 🛠️ Scientific Tools
 
@@ -49,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=python,latex,matlab,linux,git&theme=dark" />
 </p>
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -57,7 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 
 
