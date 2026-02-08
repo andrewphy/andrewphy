@@ -26,7 +26,7 @@
 - 🧲 General Relativity, Black Holes   
 - 🧪 Experimental data analysis  
 <p align="center">
-  <img src="https://tenor.com/view/sagittarius-black-hole-gif-13848412857652352521"
+  <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif"
        width="420"
        alt="Black hole"/>
 </p>
