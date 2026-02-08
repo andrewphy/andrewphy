@@ -23,8 +23,8 @@
 ## 🧠 Research Interests
 
 - 🌠 Inflationary Cosmology  
-- 🕳️ Dark Matter & FIMP scenarios  
-- 🧲 General Relativity   
+- 🕳️ Dark Matter  
+- 🧲 General Relativity, Black Holes   
 - 🧪 Experimental data analysis  
 
 ---
