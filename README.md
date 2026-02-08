@@ -60,8 +60,13 @@
 ## 🌌 A bit of spacetime curvature
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+  <img src="https://latex.codecogs.com/svg.image?ds^2=-\left(1-\frac{2Mr}{\Sigma}\right)dt^2-\frac{4Mar\sin^2\theta}{\Sigma}dtd\phi+\frac{\Sigma}{\Delta}dr^2+\Sigma d\theta^2" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="400"/>
+</p>
+
 
 ---
 
