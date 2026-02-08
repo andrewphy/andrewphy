@@ -28,7 +28,6 @@
 - 🕳️ General Relativity, Black Holes  
 - 🧪 Experimental data analysis  
 
-</td>
 
 <td width="40%" align="right">
   <img src="https://media1.tenor.com/m/wC9yHztSFgkAAAAC/sagittarius-black-hole.gif" width="300"/>
