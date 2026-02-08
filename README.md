@@ -57,7 +57,7 @@
 
 ---
 
-## 🌌 A bit of spacetime curvature
+## 🕳️ General Relativity & Black Holes
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.image?ds^2=-\left(1-\frac{2Mr}{\Sigma}\right)dt^2-\frac{4Mar\sin^2\theta}{\Sigma}dtd\phi+\frac{\Sigma}{\Delta}dr^2+\Sigma d\theta^2" />
