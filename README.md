@@ -60,12 +60,13 @@
 ## 🕳️ General Relativity & Black Holes
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?ds^2=-\left(1-\frac{2Mr}{\Sigma}\right)dt^2-\frac{4Mar\sin^2\theta}{\Sigma}dtd\phi+\frac{\Sigma}{\Delta}dr^2+\Sigma d\theta^2" />
+  <img src="https://latex.codecogs.com/svg.image?\dpi{120}ds%5E2%3D-%281-%5Cfrac%7B2Mr%7D%7B%5CSigma%7D%29dt%5E2-%5Cfrac%7B4Mar%5Csin%5E2%5Ctheta%7D%7B%5CSigma%7Ddt%20d%5Cphi%2B%5Cfrac%7B%5CSigma%7D%7B%5CDelta%7Ddr%5E2%2B%5CSigma%20d%5Ctheta%5E2" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="400"/>
 </p>
+
 
 
 ---
