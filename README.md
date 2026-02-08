@@ -15,7 +15,8 @@
 🌌 Interested in **cosmology, inflationary models, dark matter and GR**  
 📊 Using computational tools for **theoretical and experimental analysis**
 
-> *“Understanding the Universe one equation at a time.”*
+<p align="left"><i>“Understanding the Universe one equation at a time.”</i></p>
+
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
