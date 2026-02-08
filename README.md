@@ -31,7 +31,9 @@
 
 ## 📐 Favorite Equation
 
-
+$$
+\Huge \delta S = 0
+$$
 
 ## 🛠️ Scientific Tools
 
@@ -47,10 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<p align = "center">
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
+
