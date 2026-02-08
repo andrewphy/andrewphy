@@ -34,11 +34,11 @@
 
 
 
-## 📐 Favorite Equation 
-
+## 📐 Favorite Equation
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\Large%20S%20=%20\frac{1}{16\pi%20G}%20\int%20R%20\sqrt{-g}%20\,d^4x" alt="Einstein-Hilbert action"/>
+  <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b6d6c9f9e2e2f1a7f8c2f7a9e6f9f2b6b7c9d8f" width="420" alt="Einstein-Hilbert action"/>
 </p>
+
 
 
 
