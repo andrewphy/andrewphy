@@ -32,7 +32,7 @@
 ## 📐 Favorite Equation
 
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?\mathcal{L}=\sqrt{-g}\left[\frac{M_P^2}{2}R+\frac{1}{2}(\partial_\mu\phi)^2-V(\phi)\right]" />
+  <img src="https://latex.codecogs.com/svg.image?\dpi{130}S=\frac{1}{16\pi G}\int d^4x\,\sqrt{-g}\,R" />
 </p>
 
 ---
