@@ -57,13 +57,6 @@
 
 ---
 
-## 🕳️ General Relativity & Black Holes
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Black_hole_lensing.gif" width="420"/>
-</p>
-
-
 
 
 ---
