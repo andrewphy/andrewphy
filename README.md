@@ -38,7 +38,7 @@ $$
 ## 🛠️ Scientific Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,latex,matlab,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,latex,matlab,linux,mint,git&theme=dark" />
 </p>
 
 
